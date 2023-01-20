@@ -10,5 +10,5 @@ Acompanhe no terminal e/ou visualize o resultado no arquivo de saída.
 - Baixe o script .sh
 - Coloque permissão de execução: chmod +x
 - Execute o script
-- Informe o arquivo de leitura dos link
+- Informe o arquivo de leitura dos links
 - Informe o nome para o arquivo de saída
